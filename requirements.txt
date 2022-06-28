@@ -1,0 +1,6 @@
+numpy>=1.9.2
+pandas>=0.19
+django
+gunicorn
+sklearn
+django_heroku
